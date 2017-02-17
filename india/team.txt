@@ -1,27 +1,2 @@
-wc2011: 
-
-1. Virendra Sehwag
-2. Sachin Tendulkar
-3. Virat Kohli
-4. Gautam Gambhir
-5. Yuvraj Singh
-6. MS Dhoni
-7. Ravindra Jadeja
-8. R Ashwin
-9. Ashish Nehra
-10. Zaheer Khan
-11. Ishant Sharma
-
-wc2003:
-
-1. Virendra Sehwag
-2. Sachin Tendulkar
-3. Virat Kohli
-4. Gautam Gambhir
-5. Yuvraj Singh
-6. Mahendra Singh Dhoni
-7. Ravindra Jadeja
-8. Ravi Chandran Ashwin
-9. Ashish Nehra
-10. Zaheer Khan
-11. Ishant Sharma
+1. V. Sehwag
+2. SRT Tendulkar
